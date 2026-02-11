@@ -21,6 +21,6 @@
 ![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
 
 ## 🛠️ Projects
-- ⚔️ ValiantGames (https://dsc.gg/valiantgames)
+- ⚔️ [ValiantGames](https://dsc.gg/valiantgames) Owner
 
 ![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
