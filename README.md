@@ -12,7 +12,12 @@
 </p>
 
 ## 📊 My github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nex7dev&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Nex7Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nex7Dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nex7Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nex7Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🛠️ Projects
 - ⚔️ ValiantGames (https://dsc.gg/valiantgames)
