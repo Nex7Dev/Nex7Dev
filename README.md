@@ -12,8 +12,7 @@
 </p>
 
 ## 📊 My github stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nex7dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="nex7dev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nex7dev&show_icons=true&theme=dark&locale=en" alt="nex7dev" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nex7dev&show_icons=true&theme=radical)
 
 ## 🛠️ Projects
 - ⚔️ ValiantGames (https://dsc.gg/valiantgames)
