@@ -6,7 +6,7 @@
 ## 📖 About me
 - 💻 My programming languages are Java, Kotlin, and JavaScript. 
 - 🇪🇸 Language: Spanish, Not much English.
-- 🔔 Contact: Nex7Dev
+- 🔔 Discord: nex7dev
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,kotlin,java,javascript" />
